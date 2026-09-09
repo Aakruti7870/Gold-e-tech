@@ -1,0 +1,1 @@
+Deployment bundle for the GOLD e TECH launch-ready static site. Render build concatenates the base64 chunks in this folder, extracts the site directory, and publishes it.
